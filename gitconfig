@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gabirvgarcia@hotmail.com
+	name = gabriella garcia
